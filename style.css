@@ -1,0 +1,127 @@
+body {
+    background-color: #FBF8EF;
+    position: relative;
+}
+
+body h1 {
+    position: relative;
+    background-color: #FFFFFF;
+    color: rgb(100, 27, 27);
+    text-align: center;
+    padding-top: 40px;
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #8A2908;
+    padding: 20px;
+}
+
+nav a {
+
+    color: antiquewhite;
+    text-align: justify;
+    text-decoration: none;
+    padding-left: 50px;
+}
+
+h3 {
+    padding: 20px;
+    margin: 20px;
+}
+
+.texto {
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+
+.subtitulo {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+
+.produto-card {
+    padding: 20px;
+    margin: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.produto-card img {
+
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.produtos1 {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+}
+
+.btn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #04B404;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.footer {
+
+    text-align: center;
+    background-color: #F8E6E0;
+    color: #8A2908;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+.sobre {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #000000;
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    position: relative;
+}
+
+.sobre-cafe img {
+
+    inline-size: auto;
+    max-width: 500px;
+    max-height: 500px;
+    position: static;
+}
+
+.contato {
+
+    width: 20px;
+    text-align: left;
+    background-color: #FBF8EF;
+    color: #000000;
+    bottom: 0%;
+    width: 100%;
+    padding: 20px;
+    margin: 20px;
+}
+
